@@ -6,8 +6,12 @@
     "version": "1.0",
     "autoload": {
         "files": [
-            "include/config.php"
+            "include/constants.php"
+        ],
+        "classmap": [
+            "lib"
         ]
     }
 }
+
 
