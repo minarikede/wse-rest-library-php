@@ -1,0 +1,9 @@
+{
+    "name": "minarikede/wowza",
+    "description": "PHP REST Library for Wowza Streaming Engine",
+    "homepage": "https://github.com/minarikede/wse-rest-library-php",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {"wowza": "lib/"}
+    },
+}
