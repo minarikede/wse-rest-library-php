@@ -7,6 +7,9 @@
     "autoload": {
         "classmap": [
             "lib"
+        ],
+        "files": [
+            "include/constants.php"
         ]
     }
 }
